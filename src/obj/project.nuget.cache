@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "wFJXn426bNc=",
+  "success": true,
+  "projectFilePath": "/home/joshua/Dokumente/Repos/C#_Platformer/src/MeinSpiel.csproj",
+  "expectedPackageFiles": [
+    "/home/joshua/.nuget/packages/csfml/2.6.1/csfml.2.6.1.nupkg.sha512",
+    "/home/joshua/.nuget/packages/sfml.audio/2.6.0/sfml.audio.2.6.0.nupkg.sha512",
+    "/home/joshua/.nuget/packages/sfml.graphics/2.6.0/sfml.graphics.2.6.0.nupkg.sha512",
+    "/home/joshua/.nuget/packages/sfml.net/2.6.0/sfml.net.2.6.0.nupkg.sha512",
+    "/home/joshua/.nuget/packages/sfml.system/2.6.0/sfml.system.2.6.0.nupkg.sha512",
+    "/home/joshua/.nuget/packages/sfml.window/2.6.0/sfml.window.2.6.0.nupkg.sha512",
+    "/home/joshua/.nuget/packages/microsoft.aspnetcore.app.ref/10.0.0/microsoft.aspnetcore.app.ref.10.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
