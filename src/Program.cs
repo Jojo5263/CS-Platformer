@@ -9,7 +9,7 @@ class Program
     static void Main(string[] args)
     {
 
-        Player player = new Player(5f, new Vector2f(300, 300));
+        Player player = new Player(10f, new Vector2f(300, 300));
         var mode = new VideoMode(1920, 1080);
         var window = new RenderWindow(mode, "Mein SFML Spiel auf Arch");
 
