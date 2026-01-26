@@ -31,10 +31,10 @@ class Program
                 window.Close();
             }
 
-            player.update();
+            player.Update();
 
             window.Clear(); 
-            player.draw(window);
+            player.Draw(window);
             window.Display();         
         }
     }

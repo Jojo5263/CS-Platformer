@@ -7,15 +7,15 @@ using SFML.Audio;
 
 public class Player{
 
-    private CircleShape shape;
-    private float speed = 5f;
+    private CircleShape shape {get;set;}
+    private float speed {get;set;}
 
     public Player(float radius, Vector2f position){
         shape = new CircleShape(radius);
         shape.Position = position;
     }
 
-    public void update(){
+    public void Update(){
 
         if(Keyboard.IsKeyPressed(Keyboard.Key.A)){
             shape.Position += new Vector2f(-speed, 0);
@@ -34,8 +34,10 @@ public class Player{
         }
     }
 
-    public void draw(RenderWindow window){
+    public void Draw(RenderWindow window){
         window.Draw(shape);
     }
+
+    
 
 }
