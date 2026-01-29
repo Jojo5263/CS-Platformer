@@ -1,3 +1,3 @@
-public class Spike{
-    
+public class Spike {
+
 }
